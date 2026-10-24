@@ -1,0 +1,14 @@
+{
+  "codex_home": "%USERPROFILE%\\.codex",
+  "desktop_pipe": "auto",
+  "caller_thread_id": "YOUR_CODEX_THREAD_UUID",
+  "error_text": "stream disconnected before completion: Transport error: network error: error decoding response body",
+  "message": "继续",
+  "poll_seconds": 0.5,
+  "delay_seconds": 1,
+  "cooldown_seconds": 5,
+  "max_continues": 3,
+  "send_timeout_seconds": 10,
+  "confirmation_timeout_seconds": 15,
+  "excluded_threads": []
+}

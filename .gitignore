@@ -1,0 +1,4 @@
+runtime/
+__pycache__/
+config.json
+*.py[cod]
